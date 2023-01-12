@@ -1,0 +1,6 @@
+Download Seriola rivoliana genome from NCBI
+```
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/994/505/GCA_002994505.1_ASM299450v1/GCA_002994505.1_ASM299450v1_genomic.fna.gz
+#unzip
+gunzip GCA_002994505.1_ASM299450v1_genomic.fna.gz
+```
